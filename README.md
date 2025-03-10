@@ -26,3 +26,8 @@ Ce projet est une application web écrite en Go qui vous permet de découvrir qu
 
    ```sh
    go run main.go
+
+2. Se connecter sur l'interface Web :
+
+   ```sh
+   http://localhost:8080
