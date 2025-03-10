@@ -21,3 +21,8 @@ Ce projet est une application web écrite en Go qui vous permet de découvrir qu
    ```sh
    git clone https://github.com/votre-utilisateur/votre-repo.git
    cd votre-repo
+
+2. Lancer le dépot :
+
+   ```sh
+   go run main.go
